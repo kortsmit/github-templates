@@ -2,7 +2,7 @@
   1. Would you be comfortable putting this into production without any further testing?
   2. Have you looked through the diff to see exactly what this PR will contain?
   3. Have you updated the wiki version page to reflect these changes?
-  If any of the answers are "no," the PR is not ready for review.
+  If any of the answers is "no," the PR is not ready for review.
 -->
 
 #### What? Why?

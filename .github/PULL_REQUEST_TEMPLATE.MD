@@ -1,7 +1,7 @@
 <!--
   1. Would you be comfortable putting this into master without any further review or work?
   2. Have you looked through the diff to see exactly what this PR will contain?
-  If either of the answers are "no," the PR is not ready for review.
+  If either of the answers is "no," the PR is not ready for review.
 -->
 
 #### What? Why?
