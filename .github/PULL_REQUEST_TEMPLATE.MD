@@ -4,13 +4,12 @@
   If either of the answers is "no," the PR is not ready for review.
 -->
 
-#### What? Why?
+## What? Why?
 <!-- provide a description and some background context - be detailed! -->
 
 
 
----
-#### Closes issues?
+## Closes issues?
 <!-- phrase as "closes #" to close automatically upon accepting pull request -->
 
 
