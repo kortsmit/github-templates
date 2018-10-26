@@ -5,48 +5,42 @@
   If any of the answers is "no," the PR is not ready for review.
 -->
 
-#### What? Why?
+## What? Why?
 <!-- provide the version note additions, a description and some background context - be detailed! -->
 
 - 
 - 
 
----
-#### Who needs to accept?
+## Who needs to accept?
 <!-- from the team, users and who is the product owner? -->
 
 
 
----
-#### Migrations, env variables, composer, scripts or SQL?
+## Migrations, env variables, composer, scripts or SQL?
 <!-- what needs to be run and set up to create an environment appropriate for testing? -->
 
 
 
----
-#### Steps to test
+## Steps to test
 <!-- provide the steps to test, use checkboxes to list each situation that should be tested -->
 
 - [ ] 
 - [ ] 
 - [ ] Validate that all automated tests pass: `phpunit`
 
----
-#### Closes issues?
+## Closes issues?
 <!-- phrase as "closes #" to close automatically upon accepting pull request -->
 
 
 
----
-#### Additions to installation instructions?
+## Additions to installation instructions?
 <!-- document sections that should be added to the install instructions upon a merge to develop -->
 
 - 
 - 
 - Deploy
 
----
-#### Screenshots
+## Screenshots
 <!-- if frontend changes, include screenshot(s) -->
 
 
